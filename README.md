@@ -64,8 +64,6 @@ The project leverages the following technologies:
 
 ---
 
-## 🖼️ Screenshots
-
 ### 1️⃣ Welcome Screen
 The intro screen welcomes users with smooth animations.
 
